@@ -31,4 +31,4 @@ The workbench is not an operating-system sandbox. A deployment that permits loca
 
 The [combined example](https://github.com/Judge-M/Seam/tree/main/examples/combined) implements both SDK ports through Seam Engine and a fixture unified gateway. It lives outside both implementation crates so they stay independently usable.
 
-Dual licensed under MIT or Apache-2.0.
+Licensed under Apache-2.0. See [LICENSE](LICENSE).
